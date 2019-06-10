@@ -1,6 +1,6 @@
 # vue-admin
 
-> 后台管理系统
+> 一个基于vue+element-ui的后台管理系统
 
 ## Build Setup
 
