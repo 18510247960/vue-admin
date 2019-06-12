@@ -114,9 +114,8 @@ function checkStatus (response) {
         Message.error({
           message: response.data.message
         })
-      } else {
-        return response.data
       }
+      return response.data
     }
   } else {
     // 异常状态下，把错误信息返回去

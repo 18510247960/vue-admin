@@ -7,6 +7,7 @@ import Element from 'element-ui'
 import axios from './utils/request.js'
 import 'element-ui/lib/theme-chalk/index.css'
 import 'normalize.css/normalize.css'
+import './assets/css/transition.scss'
 
 Vue.prototype.axios = axios
 
